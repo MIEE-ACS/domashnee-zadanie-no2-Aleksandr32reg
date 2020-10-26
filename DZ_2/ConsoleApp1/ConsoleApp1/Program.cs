@@ -52,7 +52,7 @@ namespace DZ_2
                     else
                     {
                         Console.WriteLine("y({0}) = {1}", x, Line(x, 0, -3));
-                    }                    
+                    }
                 }
 
                 else if (x == -5)
